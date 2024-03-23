@@ -36,14 +36,6 @@ const HomeScreen = () => {
             </div>
           ))}
           <div className="llama"></div>
-          <div
-            className="confettiBtn"
-            onClick={() => {
-              confetti();
-            }}
-          >
-            🎉
-          </div>
         </>
       )}
     </div>
