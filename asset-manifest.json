@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/birthday-card/static/css/main.acb37110.css",
+    "main.js": "/birthday-card/static/js/main.fbb132f7.js",
+    "static/js/787.ec704a7a.chunk.js": "/birthday-card/static/js/787.ec704a7a.chunk.js",
+    "static/media/llama.png": "/birthday-card/static/media/llama.f57e048c41dd0c364040.png",
+    "static/media/back1.jpg": "/birthday-card/static/media/back1.ec81abbaf3a675ed6a01.jpg",
+    "static/media/card1.jpg": "/birthday-card/static/media/card1.12524b26d6feea5ee113.jpg",
+    "index.html": "/birthday-card/index.html",
+    "main.acb37110.css.map": "/birthday-card/static/css/main.acb37110.css.map",
+    "main.fbb132f7.js.map": "/birthday-card/static/js/main.fbb132f7.js.map",
+    "787.ec704a7a.chunk.js.map": "/birthday-card/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb37110.css",
+    "static/js/main.fbb132f7.js"
+  ]
+}
