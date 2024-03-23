@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import "../App.css";
 import Card from "../components/Card";
 import FirstButton from "../components/FirstButton";
-import confetti from "https://cdn.skypack.dev/canvas-confetti";
 
 const emojis = ["🎉", "🦙", "🎈", "💛", "🎁"];
 
